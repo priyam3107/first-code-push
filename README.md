@@ -1,2 +1,11 @@
-# first-code-push
-I am a beginner and keen to learn new things day by day
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    Congratulations on your first code push on Github
+</body>
+</html>
